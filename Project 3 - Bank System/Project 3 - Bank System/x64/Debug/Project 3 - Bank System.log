@@ -1,0 +1,205 @@
+﻿cl : command line  warning D9002: ignoring unknown option '/verbose'
+  Project 3 - Bank System.cpp
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsString.h(92,32): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsString.h(119,32): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsString.h(142,28): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsString.h(156,28): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsString.h(168,23): warning C4244: 'return': conversion from 'int' to 'char', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsString.h(288,22): warning C4244: '=': conversion from 'int' to 'char', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(24,13): warning C4244: '=': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(25,24): warning C4244: '=': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(26,24): warning C4244: '=': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(35,14): warning C4244: '=': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(36,16): warning C4244: '=': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(37,15): warning C4244: '=': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(98,9): warning C4458: declaration of 'Day' hides class member
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+      C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(66,57):
+      see declaration of 'clsDate::Day'
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(98,14): warning C4458: declaration of 'Month' hides class member
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+      C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(75,61):
+      see declaration of 'clsDate::Month'
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(98,21): warning C4458: declaration of 'Year' hides class member
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+      C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(85,59):
+      see declaration of 'clsDate::Year'
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(100,23): warning C4244: '=': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(101,23): warning C4244: '=': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(102,12): warning C4244: '=': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(113,9): warning C4458: declaration of 'Day' hides class member
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+      C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(66,57):
+      see declaration of 'clsDate::Day'
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(113,14): warning C4458: declaration of 'Month' hides class member
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+      C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(75,61):
+      see declaration of 'clsDate::Month'
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(113,21): warning C4458: declaration of 'Year' hides class member
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+      C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(85,59):
+      see declaration of 'clsDate::Year'
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(115,23): warning C4244: '=': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(116,23): warning C4244: '=': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(117,12): warning C4244: '=': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(118,13): warning C4244: '=': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(119,15): warning C4244: '=': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(120,15): warning C4244: '=': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(233,17): warning C4244: 'return': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(382,26): warning C4244: 'argument': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(382,23): warning C4244: 'argument': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(397,23): warning C4244: 'argument': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(411,38): warning C4244: 'argument': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(427,38): warning C4244: 'argument': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(612,29): warning C4244: 'return': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(1033,29): warning C4244: 'return': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsDate.h(1050,29): warning C4244: 'return': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsUser.h(181,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+      C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsUser.h(24,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsInputValidate.h(90,10): warning C4244: 'return': conversion from 'int' to 'short', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsInputValidate.h(118,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsInputValidate.h(122,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsBankClient.h(206,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+      C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsBankClient.h(152,12):
+      see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsBankClient.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsBankClient.h(162,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsBankClient.h(163,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsBankClient.h(164,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsBankClient.h(421,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsBankClient.h(434,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsUpdateClientScreen.h(47,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsTransferScreen.h(83,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Project%203%20-%20Bank%20System.cpp')
+  
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsBankClient.h(376,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsBankClient.h(438,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\Project 3 - Bank System\clsUser.h(345,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Project 3 - Bank System.vcxproj -> C:\Users\MSI-PC\Work Files\C++\Abu Hadhud\11 - OOP as it Should Be (Applications)\Project 3 - Bank System\x64\Debug\Project 3 - Bank System.exe
